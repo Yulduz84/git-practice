@@ -1,1 +1,2 @@
-My ever first file for git
+name: Yasmina
+position: Youngster
